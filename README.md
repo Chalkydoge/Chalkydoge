@@ -1,3 +1,4 @@
+- [![Chalkydoge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chalkydoge)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Chalkydoge
 - 👀 I’m interested in ...I don't know, lol
 - 🌱 I’m currently learning sql & databases
